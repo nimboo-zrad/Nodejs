@@ -1,3 +1,0 @@
-This is the first append!
-This is the second append!
-This is the third append!
