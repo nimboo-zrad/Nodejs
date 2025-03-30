@@ -1,1 +1,1 @@
-Hi this is a text
+if the message is shorter than the previous text it will replace the first characters only!!!
