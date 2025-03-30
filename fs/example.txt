@@ -1,1 +1,0 @@
-this text has written in example.txt
